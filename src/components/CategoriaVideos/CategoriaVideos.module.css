@@ -1,0 +1,29 @@
+.categoria {
+    font-size: 32px;
+    font-weight: 900;
+    color: #F5F5F5;
+    border: 2px solid transparent;
+    width: 20rem;
+    height: 70px;
+    border-radius: 15px;
+    margin: 10px 0px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 42px;
+    background-color: #262626;
+    box-sizing: border-box;
+}
+
+.video {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+}
+

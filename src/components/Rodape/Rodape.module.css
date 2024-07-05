@@ -1,0 +1,11 @@
+.rodape {
+    background-color: black;
+    text-align: center;
+    box-shadow: inset 0px 8px 8px 0px #2271d1b2;
+    
+}
+
+.rodape img {
+    padding: 42px 0px;
+
+}

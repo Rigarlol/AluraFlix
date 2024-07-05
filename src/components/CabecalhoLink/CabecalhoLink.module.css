@@ -1,0 +1,29 @@
+.link {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 1em 1em;
+    text-decoration: none;
+    border: 2px solid #F5F5F5;
+    border-radius: 10px;
+    width: 180px;
+    text-align: center;
+    font-family: "Source Sans 3", sans-serif;
+   
+
+}
+
+.linkAtivo {
+    color: #2271D1;
+    background-color: #000000ca;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 1em 1em;
+    text-decoration: none;
+    border: 2px solid #2271D1;
+    border-radius: 10px;
+    width: 180px;
+    text-align: center;
+    font-family: "Source Sans 3", sans-serif;
+    box-shadow: inset 0px 0px 19px 6px #2271d1b2;
+}

@@ -1,0 +1,53 @@
+.cardvideo {
+    width: 441px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: inset 1px -1px 7px 4px #6BD1FF;
+}
+
+.cabecalho img {
+    max-width: 100%;
+    height: auto;
+}
+
+.rodape {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: inset 1px -1px 7px 4px #6BD1FF;
+    margin-top: -5px;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.deletar {
+    background-color: rgb(0, 0, 0);
+    padding: 16px;
+    cursor: pointer;
+    border: 1px solid black;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.editar {
+    background-color: rgb(0, 0, 0);
+    padding: 16px;
+    cursor: pointer;
+    border: 1px solid black;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.ico {
+    color: white;
+    font-size: 30px;
+}
